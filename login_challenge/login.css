@@ -1,0 +1,33 @@
+body {
+    background-color: cornflowerblue;
+    height: 100%;
+    margin-top: 50px;
+}
+
+/* Login Div */
+
+.loginBox {
+    background-color: white;
+    color: darkblue;
+    width: 225px;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 2px;
+    box-shadow: 2px 2px 0 0 black;
+    position: relative;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input {
+    box-shadow: 1px 1px 0 0 black;
+}
+
+#submit {
+    box-shadow: 1px 1px 0 0 black;
+}
+
+h6 {
+    font-size: small;
+}
